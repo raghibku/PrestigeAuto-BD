@@ -1,0 +1,9 @@
+Project Console: https://console.firebase.google.com/project/brand-shop-572b5/overview
+Hosting URL: https://brand-shop-572b5.web.app
+
+ Inspect: https://vercel.com/raghibs-projects/brand-shop-server/DWAzpNfrRPiRPViTxuEfqvLKC59s 
+✅  Preview: https://brand-shop-server-dfhv663us-raghibs-projects.vercel.app [3s]
+
+🔍  Inspect: https://vercel.com/raghibs-projects/brand-shop-server/7rdQKpXQbSYLozp6zrXDQtAsTbjv [1s]
+✅  Production: https://brand-shop-server-goruwf4te-raghibs-projects.vercel.app
+

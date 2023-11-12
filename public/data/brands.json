@@ -1,0 +1,35 @@
+{
+    "brands": [
+      {
+        "id":101,
+        "name": "Toyota",
+        "image": "/images/brand_logos/toyota.png"
+      },
+      {
+        "id":102,
+        "name": "Ford",
+        "image": "https://www.freeiconspng.com/uploads/ford-logo-icon-0.png"
+      },
+      {
+        "id":103,
+        "name": "BMW",
+        "image": "/images/brand_logos/bmw.png"
+      },
+      {
+        "id":104,
+        "name": "Mercedes-Benz",
+        "image": "/images/brand_logos/benz.png"
+      },
+      {
+        "id":105,
+        "name": "Tesla",
+        "image": "/images/brand_logos/tesla.png"
+      },
+      {
+        "id":106,
+        "name": "Honda",
+        "image": "https://www.freeiconspng.com/uploads/honda-logo-png-picture-20.png"
+      }
+    ]
+  }
+  

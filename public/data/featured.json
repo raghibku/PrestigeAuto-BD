@@ -1,0 +1,35 @@
+[
+      {
+        "id":1,
+        "photoURL": "https://source.unsplash.com/lRrNccxrTfQ",
+        "name": "Ford Mustang",
+        "brandName": "Ford",
+        "type": "Sports Car",
+        "price": 45000,
+        "shortDescription": "The Ford Mustang is an iconic American sports car with a powerful V8 engine.",
+        "rating": 4.8
+      },
+      {
+        "id":2,
+        "photoURL": "https://source.unsplash.com/zE2VGbJSYns",
+        "name": "Honda Civic",
+        "brandName": "Honda",
+        "type": "Sedan",
+        "price": 22000,
+        "shortDescription": "The Honda Civic is a reliable and fuel-efficient compact sedan.",
+        "rating": 4.6
+      },
+      {
+        "id":3,
+        "photoURL": "https://source.unsplash.com/uP9ZX94_bj8",
+        "name": "Mercedes-Benz GLE",
+        "brandName": "Mercedes-Benz",
+        "type": "SUV",
+        "price": 70000,
+        "shortDescription": "The Mercedes-Benz GLE is a spacious and opulent SUV with cutting-edge technology.",
+        "rating": 4.6
+      }
+      
+]
+
+  
